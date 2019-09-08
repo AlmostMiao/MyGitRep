@@ -1,1 +1,3 @@
 Hello clone.
+git branch dev
+git checkout dev
